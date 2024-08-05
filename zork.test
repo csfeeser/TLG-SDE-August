@@ -1,0 +1,33 @@
+# VIM IS MODAL!
+
+INSERT MODE
+  where you can type in/edit text
+  when you see the -- INSERT -- in the bottom left corner of vim
+  press i to enter INSERT mode
+
+COMMAND MODE
+  where you can save/quit/etc.
+  press esc to enter command mode
+
+Try typing something out when in INSERT mode!
+
+# HOW TO PASTE:
+• press ctrl shift v
+OR
+• press shift insert
+OR
+• right click mouse, select "paste"
+
+West of House
+You are standing in an open field west of a white house, with a boarded front door.
+There is a small mailbox here.
+
+
+
+
+
+
+
+
+
+
